@@ -5,12 +5,11 @@ Motivation of project
 Following the CRISP_DM methodology I used the Fifa dataset to analyse the player attributes.
 The dataset is from Kaggle and can be found https://www.kaggle.com/datasets/rehandl23/fifa-24-player-stats-dataset
 
-https://www.quora.com/What-are-the-most-valuable-qualities-of-a-striker.
 The questions that will be focused on are :
 * Ronaldo vs Messi what does the numbers say?
 * Which country/region has the most valuable players?
 * What else is data telling us ...'
- The link to my notebook code can be found https://github.com/Abison1/FIFA-Dataset--Project-1/
+The link to my notebook code can be found https://github.com/Abison1/FIFA-Dataset--Project-1/
 
 Files in the repository
  * FifaPlayer.ipynb - notebook with code
